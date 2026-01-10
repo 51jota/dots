@@ -30,6 +30,7 @@ PKGS=(
     "qt6-svq"
     "qt6-vitualkeyboard"
     "qt6-multimedia"
+    "visual-studio-code-bin"
 )
 
 # ==========================================
