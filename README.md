@@ -5,10 +5,13 @@ Minhas configurações pessoais (dotfiles) para o **Niri** compositor no Arch Li
 ## 📸 Screenshots
 
 ![Desktop](screenshots/desktop.png)
-*Desktop limpo*
+*Desktop*
 
-![Menu](screenshots/menu.png)
-*Launcher e Janelas*
+![Tofi](screenshots/tofi.png)
+*Tofi*
+
+![SDDM](screenshots/sddm.png)
+*SDDM/Login*
 
 ---
 
@@ -25,4 +28,26 @@ O script vai:
 **Copie e cole:**
 
 ```bash
-bash <(curl -s [https://raw.githubusercontent.com/51jota/dots/main/install.sh](https://raw.githubusercontent.com/51jota/dots/main/install.sh))
+bash <(curl -s [https://raw.githubusercontent.com/51jota/dots/main/install.sh](https://raw.githubusercontent.com/51jota/dots/main/install.sh
+```
+Nota: Reinicie o computador após a instalação terminar.
+
+🛠️ Apps:  
+WM: Niri  
+Barra: Waybar  
+Terminal:	Kitty  
+Browser: Firefox  
+Launcher: Tofi  
+Login (DM):	SDDM  
+Notificações:	Dunst  
+File Manager: Superfile/Nautilus  
+
+⌨️ Atalhos Principais:  
+Super + Enter: Kitty  
+Super + Space: Tofi  
+Super + Esc: PowerMenu  
+Super + B: Firefox  
+Super + F: Maximizar Janela  
+Super + Shift + W: Trocar Wallpaper  
+Super + Minus: Wifi  
+Super + Shift + Minus: Bluetooth  
