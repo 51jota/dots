@@ -115,8 +115,19 @@ mkdir -p "$HOME/.config"
 # Exemplo: Linkando a pasta 'niri' do repo para ~/.config/niri
 link_config "niri" "niri"
 link_config "waybar" "waybar"
-link_config "alacritty" "alacritty"
-# link_config "pasta-no-repo" "nome-na-config"
+link_config "kitty" "kitty"
+link_config "btop" "btop"
+link_config Code"" "Code"
+link_config "dunst" "dunst"
+link_config "fastfetch" "fastfetch"
+link_config "hypr" "hypr"
+link_config "mozilla" "mozilla"
+link_config "nautilus" "nautilus"
+link_config "nvim" "nvim"
+link_config "obs-studio" "obs-studio"
+link_config "superfile" "superfile"
+link_config "tofi" "tofi"
+link_config "walls" "walls"
 
 # ==========================================
 # CONFIGURAÇÃO DO SDDM
@@ -126,17 +137,11 @@ echo -e "\033[0;32m[SETUP]\033[0m Configurando SDDM..."
 # 1. Habilita o serviço para iniciar no boot
 sudo systemctl enable sddm
 
-# 2. Copia seus temas para a pasta do sistema
-# (O -r garante que copie a pasta do tema inteira)
-if [ -d "$CONFIG_DIR/sddm/themes" ]; then
-    echo "Copiando temas..."
-    sudo cp -r "$CONFIG_DIR/sddm/themes/"* /usr/share/sddm/themes/
-fi
-
-# 3. Copia seu arquivo de configuração
-if [ -f "$CONFIG_DIR/sddm/sddm.conf" ]; then
-    echo "Aplicando sddm.conf..."
-    sudo cp "$CONFIG_DIR/sddm/sddm.conf" /etc/sddm.conf
+# 2. Copia a pasta sddm do repo para /usr/share
+# Isso vai mesclar seus temas com a pasta do sistema
+if [ -d "$CONFIG_DIR/sddm" ]; then
+    echo "Copiando pasta sddm para /usr/share..."
+    sudo cp -r "$CONFIG_DIR/sddm" /usr/share/
 fi
 
 log "Instalação concluída! Reinicie o sistema ou inicie o Niri."
