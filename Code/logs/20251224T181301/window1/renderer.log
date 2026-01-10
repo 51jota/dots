@@ -1,0 +1,9 @@
+2025-12-24 18:13:05.455 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 23ms.
+2025-12-24 18:13:05.634 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 40ms.
+2025-12-24 18:13:05.734 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 51ms.
+2025-12-24 18:13:09.331 [info] Started local extension host with pid 993.
+2025-12-24 18:13:17.361 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2025-12-24 18:13:23.268 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-24 18:13:27.097 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-24 18:13:30.766 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-24 18:13:44.208 [info] [perf] Render performance baseline is 139ms

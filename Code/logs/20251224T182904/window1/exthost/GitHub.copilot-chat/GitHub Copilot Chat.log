@@ -1,0 +1,31 @@
+2025-12-24 18:36:51.430 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-24 18:36:51.430 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-24 18:36:51.430 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-24 18:36:51.431 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-24 18:36:52.455 [error] Copilot extension not found
+2025-12-24 18:36:52.576 [info] Using the Electron fetcher.
+2025-12-24 18:36:52.626 [info] Creating node-pty shim: source=/opt/visual-studio-code/resources/app/node_modules/node-pty/build/Release, dest=/home/kaoruko/.vscode/extensions/github.copilot-chat-0.35.2/node_modules/@github/copilot/prebuilds/linux-x64
+2025-12-24 18:36:52.626 [info] Creating ripgrep shim: source=/opt/visual-studio-code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/kaoruko/.vscode/extensions/github.copilot-chat-0.35.2/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2025-12-24 18:36:52.820 [info] Found 1 entries to copy: pty.node
+2025-12-24 18:36:52.822 [info] Found 1 entries to copy: rg
+2025-12-24 18:36:57.171 [info] Logged in as 51jota
+2025-12-24 18:36:57.776 [info] Got Copilot token for 51jota
+2025-12-24 18:36:57.776 [info] Copilot Chat: 0.35.2, VS Code: 1.107.1
+2025-12-24 18:36:57.924 [info] activationBlocker from 'languageModelAccess' took for 5641ms
+2025-12-24 18:36:58.785 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-24 18:36:58.785 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-24 18:36:58.850 [info] Registering default platform agent...
+2025-12-24 18:36:58.857 [info] [code-referencing] Public code references are enabled.
+2025-12-24 18:36:58.857 [info] activationBlocker from 'conversationFeature' took for 6695ms
+2025-12-24 18:36:59.037 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2025-12-24 18:36:59.071 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2025-12-24 18:36:59.126 [info] Fetched model metadata in 6797ms 14a7d62c-ff46-44bd-b573-e0e3ea8a35c3
+2025-12-24 18:36:59.459 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-24 18:36:59.463 [info] ccreq:4b775b2d.copilotmd | markdown
+2025-12-24 18:36:59.545 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-24 18:36:59.806 [error] Error: Invalid /models response data: Error in property 'models': Expected array
+	at LO._fetchLatestModels (/home/kaoruko/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:2514:13999)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5): Failed to process /models response
+2025-12-24 18:37:05.200 [warning] Computing async parser based result took longer than 600ms
+2025-12-24 18:37:05.986 [warning] Computing async parser based result took longer than 600ms
+2025-12-24 18:37:06.114 [info] [CurrentChange] Full documents: 51 tokens, 110896 budget

@@ -1,0 +1,5 @@
+2025-12-24 18:13:22.434 [info] [principal] Nível de log: Info
+2025-12-24 18:13:22.434 [info] [principal] Validando o git encontrado em: "git"
+2025-12-24 18:13:22.434 [info] [principal] Usando git "2.52.0" de "git"
+2025-12-24 18:13:22.434 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-24 18:13:22.434 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

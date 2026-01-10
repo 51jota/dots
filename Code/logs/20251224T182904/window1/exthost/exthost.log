@@ -1,0 +1,211 @@
+2025-12-24 18:29:16.742 [info] Extension host with pid 6424 started
+2025-12-24 18:29:18.960 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-24 18:29:18.978 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-24 18:29:20.161 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-24 18:29:21.212 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-24 18:29:21.222 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-24 18:29:23.948 [info] Eager extensions activated
+2025-12-24 18:29:24.027 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:29:24.031 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:29:24.035 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:29:24.326 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:29:24.863 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:29:27.867 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:29:27.879 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:29:27.885 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:29:29.726 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2025-12-24 18:32:53.253 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-24 18:32:53.476 [info] Extension host with pid 6424 exiting with code 0
+2025-12-24 18:33:09.426 [info] Extension host with pid 7221 started
+2025-12-24 18:33:09.426 [info] Skipping acquiring lock for /home/kaoruko/.config/Code/User/workspaceStorage/b6926edd6e512a601525a8706abf274c.
+2025-12-24 18:33:10.856 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-24 18:33:10.866 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-24 18:33:12.802 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-12-24 18:33:14.453 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-24 18:33:15.148 [info] Eager extensions activated
+2025-12-24 18:33:15.164 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:33:15.171 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:33:15.174 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:33:15.868 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:33:21.688 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-12-24 18:33:28.313 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:33:28.319 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:33:28.324 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:34:27.013 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:34:31.344 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:34:31.346 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:34:41.380 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-24 18:34:52.279 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-24 18:34:52.429 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-24 18:34:59.627 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-24 18:34:59.908 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/kaoruko/.vscode/extensions/ms-python.vscode-python-envs-1.14.0-linux-x64/dist/extension.js:2:684166)
+	at HX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-24 18:34:59.925 [info] Extension host with pid 7221 exiting with code 0
+2025-12-24 18:35:11.389 [info] Extension host with pid 7510 started
+2025-12-24 18:35:11.389 [info] Skipping acquiring lock for /home/kaoruko/.config/Code/User/workspaceStorage/b6926edd6e512a601525a8706abf274c.
+2025-12-24 18:35:14.172 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-24 18:35:14.185 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-24 18:35:14.189 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-12-24 18:35:14.193 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:35:17.449 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:35:17.456 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-24 18:35:20.662 [info] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern **/pylock.*.toml
+2025-12-24 18:35:21.074 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-24 18:35:21.082 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-24 18:35:23.045 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:35:23.082 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-12-24 18:35:23.528 [info] Eager extensions activated
+2025-12-24 18:35:24.018 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:35:24.021 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:35:24.024 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:35:24.564 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:35:25.789 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-24 18:35:37.941 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-24 18:35:38.385 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-24 18:36:43.470 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onCommand:github.copilot.chat.review'
+2025-12-24 18:36:51.271 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-12-24 18:36:52.611 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at VXt.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:517:9889)
+2025-12-24 18:36:59.531 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:36:59.534 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:36:59.537 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:44:58.837 [error] Error: illegal state - object is disposed
+	at TN.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112519)
+	at TN.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112037)
+	at p.forgetDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1862240)
+	at y.cleanUpDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1872440)
+	at _d.value (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1871740)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at _d.e [as value] (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:685535)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at a4.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:25037)
+	at l5.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125043)
+	at l5.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124823)
+	at l5.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123912)
+	at l5.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123017)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121814)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:9330)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7564)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-24 18:44:58.840 [error] Error: illegal state - object is disposed
+	at TN.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112519)
+	at TN.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112037)
+	at p.forgetDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1862240)
+	at y.cleanUpDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1872440)
+	at _d.value (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1871740)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at _d.e [as value] (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:685535)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at a4.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:25037)
+	at l5.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125043)
+	at l5.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124823)
+	at l5.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123912)
+	at l5.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123017)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121814)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:9330)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7564)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-24 18:47:39.561 [error] Error: illegal state - object is disposed
+	at TN.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112519)
+	at TN.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112037)
+	at p.forgetDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1862240)
+	at y.cleanUpDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1872440)
+	at _d.value (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1871740)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at _d.e [as value] (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:685535)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at a4.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:25037)
+	at l5.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125043)
+	at l5.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124823)
+	at l5.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123912)
+	at l5.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123017)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121814)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:9330)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7564)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-24 18:47:39.568 [error] Error: illegal state - object is disposed
+	at TN.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112519)
+	at TN.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:112037)
+	at p.forgetDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1862240)
+	at y.cleanUpDocument (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1872440)
+	at _d.value (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:1871740)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at _d.e [as value] (/home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/vendor.bundle.js:2:685535)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at a4.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:25037)
+	at l5.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125043)
+	at l5.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124823)
+	at l5.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123912)
+	at l5.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123017)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121814)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at _d.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:9330)
+	at I.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9454)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7564)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-24 18:52:08.748 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-24 18:52:09.153 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/kaoruko/.vscode/extensions/ms-python.vscode-python-envs-1.14.0-linux-x64/dist/extension.js:2:684166)
+	at HX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-24 18:52:09.171 [info] Extension host with pid 7510 exiting with code 0

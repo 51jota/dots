@@ -1,0 +1,29 @@
+2025-12-24 18:13:10.580 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-12-24 18:13:10.580 [info] [AutoSync] Enabled.
+2025-12-24 18:13:10.580 [info] [AutoSync] Suspended until auth token is available.
+2025-12-24 18:13:30.770 [info] [AutoSync] Triggered by Interval
+2025-12-24 18:13:30.772 [info] Sync started.
+2025-12-24 18:13:33.229 [info] Settings: No changes found during synchronizing settings.
+2025-12-24 18:13:33.273 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-12-24 18:13:33.300 [info] Snippets: No changes found during synchronizing snippets.
+2025-12-24 18:13:33.323 [info] Tasks: No changes found during synchronizing tasks.
+2025-12-24 18:13:33.346 [info] Mcp: No changes found during synchronizing mcp.
+2025-12-24 18:13:33.847 [info] GlobalState: No changes found during synchronizing ui state.
+2025-12-24 18:13:33.869 [info] GlobalState: Updated last synchronized ui state
+2025-12-24 18:13:34.482 [info] Extensions: Updated remote extensions. Added: ["arcticicestudio.nord-visual-studio-code"].
+2025-12-24 18:13:34.498 [info] Extensions: Updated last synchronized extensions.
+2025-12-24 18:13:34.533 [info] Prompts: No changes found during synchronizing prompts.
+2025-12-24 18:13:34.550 [info] Profiles: No changes found during synchronizing profiles.
+2025-12-24 18:13:34.580 [info] Sync done. Took 3812ms
+2025-12-24 18:14:48.336 [info] [AutoSync] Triggered by Activity
+2025-12-24 18:14:48.338 [info] Sync started.
+2025-12-24 18:14:48.566 [info] Settings: No changes found during synchronizing settings.
+2025-12-24 18:14:48.599 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-12-24 18:14:48.626 [info] Snippets: No changes found during synchronizing snippets.
+2025-12-24 18:14:48.650 [info] Tasks: No changes found during synchronizing tasks.
+2025-12-24 18:14:48.679 [info] Mcp: No changes found during synchronizing mcp.
+2025-12-24 18:14:48.741 [info] GlobalState: No changes found during synchronizing ui state.
+2025-12-24 18:14:49.446 [info] Extensions: No changes found during synchronizing extensions.
+2025-12-24 18:14:49.461 [info] Prompts: No changes found during synchronizing prompts.
+2025-12-24 18:14:49.470 [info] Profiles: No changes found during synchronizing profiles.
+2025-12-24 18:14:49.481 [info] Sync done. Took 1153ms

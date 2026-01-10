@@ -1,0 +1,64 @@
+{
+  "version": 3,
+  "responderUsername": "",
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "98c3328a-2003-41f3-bc06-8d4f8cf61482",
+  "creationDate": 1766611750093,
+  "lastMessageDate": 1766611750093,
+  "hasPendingEdits": false,
+  "contrib": {
+    "chatDynamicVariableModel": []
+  },
+  "attachments": [],
+  "mode": {
+    "id": "agent",
+    "kind": "agent"
+  },
+  "selectedModel": {
+    "identifier": "copilot/auto",
+    "metadata": {
+      "extension": {
+        "value": "GitHub.copilot-chat",
+        "_lower": "github.copilot-chat"
+      },
+      "id": "auto",
+      "vendor": "copilot",
+      "name": "Auto",
+      "family": "gpt-5-mini",
+      "detail": "1x",
+      "tooltip": "Seleciona automaticamente o melhor modelo para sua solicitação com base na capacidade e no desempenho.",
+      "version": "gpt-5-mini",
+      "maxInputTokens": 127805,
+      "maxOutputTokens": 64000,
+      "auth": {
+        "providerLabel": "GitHub Copilot Chat",
+        "accountLabel": "51jota"
+      },
+      "isDefault": true,
+      "isUserSelectable": true,
+      "modelPickerCategory": {
+        "label": "",
+        "order": -9007199254740991
+      },
+      "capabilities": {
+        "vision": true,
+        "toolCalling": true,
+        "agentMode": true
+      }
+    }
+  },
+  "inputText": "",
+  "selections": [
+    {
+      "startLineNumber": 1,
+      "startColumn": 1,
+      "endLineNumber": 1,
+      "endColumn": 1,
+      "selectionStartLineNumber": 1,
+      "selectionStartColumn": 1,
+      "positionLineNumber": 1,
+      "positionColumn": 1
+    }
+  ]
+}

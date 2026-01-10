@@ -1,0 +1,39 @@
+2025-12-24 18:55:42.384 [info] Client: Pylance client (2025.10.4) started with python extension (2025.20.1)
+2025-12-24 18:55:47.072 [info] (8735): Server root directory: file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-24 18:55:47.077 [info] (8735): Pylance language server 2025.10.4 (pyright version 1.1.407, commit 906e40aa) starting
+2025-12-24 18:55:47.109 [info] (8735): Starting service instance "Coding" for workspace "/home/kaoruko/Coding"
+2025-12-24 18:55:53.649 [info] (8735): Loading background bundle file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into file:///home/kaoruko/Coding...
+2025-12-24 18:55:54.638 [info] (8735): Starting Mcp server id:4883 ...
+2025-12-24 18:55:54.974 [info] (8735): FG(Coding): Setting environmentName for service "Coding": "3.13.11 (global)"
+2025-12-24 18:55:54.983 [info] (8735): FG(Coding): Setting pythonPath for service "Coding": "/bin/python"
+2025-12-24 18:55:54.984 [info] (8735): FG(Coding): No include entries specified; assuming /home/kaoruko/Coding
+2025-12-24 18:55:54.995 [info] (8735): FG(Coding): Auto-excluding **/node_modules
+2025-12-24 18:55:55.006 [info] (8735): FG(Coding): Auto-excluding **/__pycache__
+2025-12-24 18:55:55.007 [info] (8735): FG(Coding): Auto-excluding **/.*
+2025-12-24 18:55:55.276 [info] (8735): FG(Coding): Assuming Python version 3.13.11.final.0
+2025-12-24 18:55:56.403 [info] (8735): FG(Coding): Found 4 source files
+2025-12-24 18:55:56.665 [info] (8735): Settings have not changed. Skipping update.
+2025-12-24 18:55:59.684 [info] (8735): PQ(Coding): Priority queue background worker(2) root directory: file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-24 18:55:59.692 [info] (8735): PQ(Coding): Priority queue background worker(2) started
+2025-12-24 18:56:01.489 [info] (8735): BG(Coding): Loaded external background bundle file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-24 18:56:54.570 [info] (8735): BG(Coding): Long operation: indexing: file:///home/kaoruko/Coding/Python/Aula4/aula4.py (2180ms)
+2025-12-24 18:56:57.776 [info] (8735): IDX(Coding): Indexer background runner(3) root directory: file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (index)
+2025-12-24 18:56:57.778 [info] (8735): IDX(Coding): Indexing(3) started
+2025-12-24 18:57:01.140 [info] (8735): IDX(Coding): Long operation: scan packages file:///home/kaoruko/Coding (2854ms)
+2025-12-24 18:57:01.140 [info] (8735): IDX(Coding): scanned(3) 26 files over 1 exec env
+2025-12-24 18:57:02.089 [info] (8735): IDX(Coding): indexed(3) 26 files over 1 exec env
+2025-12-24 18:57:02.131 [info] (8735): IDX(Coding): Indexing finished(3).
+2025-12-24 18:57:17.391 [info] (8735): Starting service instance "<default>" for workspace ""
+2025-12-24 18:57:17.395 [info] (8735): Loading background bundle file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into ...
+2025-12-24 18:57:17.635 [info] (8735): FG(<default>): Setting environmentName for service "<default>": "3.13.11 (global)"
+2025-12-24 18:57:17.639 [info] (8735): FG(<default>): Setting pythonPath for service "<default>": "/bin/python"
+2025-12-24 18:57:17.643 [info] (8735): FG(<default>): No include entries specified; assuming /<default workspace root>
+2025-12-24 18:57:17.647 [info] (8735): FG(<default>): Auto-excluding **/node_modules
+2025-12-24 18:57:17.649 [info] (8735): FG(<default>): Auto-excluding **/__pycache__
+2025-12-24 18:57:17.652 [info] (8735): FG(<default>): Auto-excluding **/.*
+2025-12-24 18:57:17.867 [info] (8735): FG(<default>): Assuming Python version 3.13.11.final.0
+2025-12-24 18:57:18.272 [error] (8735): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2025-12-24 18:57:18.284 [info] (8735): FG(<default>): No source files found.
+2025-12-24 18:57:21.534 [info] (8735): PQ(<default>): Priority queue background worker(5) root directory: file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-24 18:57:21.542 [info] (8735): PQ(<default>): Priority queue background worker(5) started
+2025-12-24 18:57:23.321 [info] (8735): BG(<default>): Loaded external background bundle file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 

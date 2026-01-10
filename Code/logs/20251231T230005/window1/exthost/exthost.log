@@ -1,0 +1,18 @@
+2025-12-31 23:00:27.121 [info] Extension host with pid 10329 started
+2025-12-31 23:00:27.121 [info] Skipping acquiring lock for /home/kaoruko/.config/Code/User/workspaceStorage/b6926edd6e512a601525a8706abf274c.
+2025-12-31 23:00:29.769 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-31 23:00:29.782 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-31 23:00:30.247 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-31 23:00:32.466 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-31 23:00:32.469 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-31 23:00:33.258 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-31 23:00:35.443 [info] Eager extensions activated
+2025-12-31 23:00:35.614 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 23:00:35.617 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 23:00:35.620 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 23:00:36.128 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 23:00:38.951 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-31 23:00:38.957 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-31 23:00:38.962 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-31 23:01:08.671 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-31 23:01:08.816 [info] Extension host with pid 10329 exiting with code 0

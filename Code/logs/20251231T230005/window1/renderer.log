@@ -1,0 +1,9 @@
+2025-12-31 23:00:12.822 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 51ms.
+2025-12-31 23:00:12.970 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 24ms.
+2025-12-31 23:00:13.101 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 59ms.
+2025-12-31 23:00:13.222 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 37ms.
+2025-12-31 23:00:19.032 [info] Started local extension host with pid 10329.
+2025-12-31 23:00:34.062 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-31 23:00:35.838 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-31 23:00:37.416 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-31 23:00:42.431 [info] [perf] Render performance baseline is 220ms

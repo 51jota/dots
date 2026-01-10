@@ -1,0 +1,18 @@
+2025-12-23 21:11:21.774 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 38ms.
+2025-12-23 21:11:21.906 [warning] Creation of workbench contribution 'workbench.contrib.textFileEditorTracker' took 38ms.
+2025-12-23 21:11:22.001 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 26ms.
+2025-12-23 21:11:22.087 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 31ms.
+2025-12-23 21:11:29.083 [info] Started local extension host with pid 2625.
+2025-12-23 21:11:41.753 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2025-12-23 21:11:45.301 [info] Extension host (LocalProcess pid: 2625) is unresponsive.
+2025-12-23 21:11:47.430 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-23 21:11:50.190 [error] [Extension Host] (node:2625) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-23 21:11:50.193 [error] [Extension Host] (node:2625) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-23 21:11:50.201 [info] Extension host (LocalProcess pid: 2625) is responsive.
+2025-12-23 21:11:54.450 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-23 21:11:54.652 [warning] Creation of workbench contribution 'terminal.chatAgentTools' took 111ms.
+2025-12-23 21:11:58.357 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-23 21:11:58.874 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-23 21:12:09.319 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 121ms.
+2025-12-23 21:12:18.210 [info] [perf] Render performance baseline is 199ms

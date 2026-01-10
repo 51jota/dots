@@ -1,0 +1,76 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "203525b0613b11b88ff6a8348cde25f0d7aefad8f657b8a212c2b05f051bcfb3",
+    "telemetry.devDeviceId": "b6bcee08-31b9-4122-8642-c89c8f57c786",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/kaoruko/Coding"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/kaoruko/Coding": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#2e3440",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#d8dee9",
+            "background": "#2e3440",
+            "editorBackground": "#2e3440",
+            "titleBarBackground": "#2e3440",
+            "titleBarBorder": "rgba(46, 52, 64, 0)",
+            "activityBarBackground": "#2e3440",
+            "sideBarBackground": "#2e3440",
+            "sideBarBorder": "#3b4252",
+            "statusBarBackground": "#3b4252",
+            "statusBarBorder": "rgba(59, 66, 82, 0)",
+            "statusBarNoFolderBackground": "#3b4252"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/kaoruko/Coding",
+            "backupPath": "/home/kaoruko/.config/Code/Backups/f2ddf94850222be2fc75a46d44d4c4a7",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 663,
+                "height": 695
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "b6926edd6e512a601525a8706abf274c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

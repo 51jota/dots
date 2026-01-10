@@ -1,0 +1,17 @@
+2025-12-31 23:00:20.691 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-12-31 23:00:20.692 [info] [AutoSync] Enabled.
+2025-12-31 23:00:20.692 [info] [AutoSync] Suspended until auth token is available.
+2025-12-31 23:00:37.338 [info] [AutoSync] Triggered by Interval
+2025-12-31 23:00:37.340 [info] Sync started.
+2025-12-31 23:00:39.891 [info] Settings: Updated remote settings
+2025-12-31 23:00:40.423 [info] Settings: Updated last synchronized settings
+2025-12-31 23:00:40.890 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-12-31 23:00:41.610 [info] Snippets: No changes found during synchronizing snippets.
+2025-12-31 23:00:41.776 [info] Tasks: No changes found during synchronizing tasks.
+2025-12-31 23:00:41.796 [info] Mcp: No changes found during synchronizing mcp.
+2025-12-31 23:00:42.451 [info] GlobalState: Updated remote ui state. Added: chat.currentLanguageModel.editor,chat.currentLanguageModel.editor.isDefault.
+2025-12-31 23:00:42.498 [info] GlobalState: Updated last synchronized ui state
+2025-12-31 23:00:43.130 [info] Extensions: No changes found during synchronizing extensions.
+2025-12-31 23:00:43.147 [info] Prompts: No changes found during synchronizing prompts.
+2025-12-31 23:00:43.157 [info] Profiles: No changes found during synchronizing profiles.
+2025-12-31 23:00:43.171 [info] Sync done. Took 5836ms

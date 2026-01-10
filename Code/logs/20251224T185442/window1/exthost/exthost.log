@@ -1,0 +1,36 @@
+2025-12-24 18:54:57.188 [info] Extension host with pid 8316 started
+2025-12-24 18:54:57.193 [info] Skipping acquiring lock for /home/kaoruko/.config/Code/User/workspaceStorage/b6926edd6e512a601525a8706abf274c.
+2025-12-24 18:55:02.836 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-24 18:55:02.858 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-24 18:55:04.101 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-24 18:55:10.051 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-24 18:55:10.055 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-24 18:55:11.071 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:55:11.079 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:55:11.093 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:55:11.789 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-24 18:55:13.342 [info] Eager extensions activated
+2025-12-24 18:55:14.570 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-24 18:55:15.565 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:55:15.573 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:55:15.583 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-24 18:55:25.758 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-12-24 18:55:25.761 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:55:28.531 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:55:39.328 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-24 18:55:56.364 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-24 18:55:56.680 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-24 18:59:16.320 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-24 18:59:16.657 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/kaoruko/.vscode/extensions/ms-python.vscode-python-envs-1.14.0-linux-x64/dist/extension.js:2:684166)
+	at HX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-24 18:59:16.677 [info] Extension host with pid 8316 exiting with code 0

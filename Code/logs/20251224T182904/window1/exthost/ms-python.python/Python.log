@@ -1,0 +1,19 @@
+2025-12-24 18:34:36.670 [info] Native locator: Refresh started
+2025-12-24 18:34:37.770 [info] Native locator: Refresh started
+2025-12-24 18:34:38.183 [info] > pyenv which python
+2025-12-24 18:34:38.183 [info] cwd: .
+2025-12-24 18:34:39.978 [info] Native locator: Refresh finished in 3275 ms
+2025-12-24 18:34:40.159 [info] Caminho do interpretador Python: /usr/bin/python
+2025-12-24 18:34:50.196 [info] Iniciando servidor de idiomas Pylance.
+2025-12-24 18:35:21.281 [info] Native locator: Refresh started
+2025-12-24 18:35:22.472 [info] Native locator: Refresh started
+2025-12-24 18:35:23.141 [info] > pyenv which python
+2025-12-24 18:35:23.141 [info] cwd: .
+2025-12-24 18:35:23.373 [info] Native locator: Refresh finished in 4079 ms
+2025-12-24 18:35:23.389 [info] Caminho do interpretador Python: /usr/bin/python
+2025-12-24 18:35:33.837 [info] CreateEnv Trigger - Skipping for /home/kaoruko/Coding/Python/Aula4/aula4desafio3.py
+2025-12-24 18:35:34.335 [info] Send text to terminal: /usr/bin/python /home/kaoruko/Coding/Python/Aula4/aula4desafio3.py
+2025-12-24 18:35:36.700 [info] Iniciando servidor de idiomas Pylance.
+2025-12-24 18:37:00.376 [error] Unable to find workspace for given file
+2025-12-24 18:37:09.797 [info] Native locator: Refresh started
+2025-12-24 18:37:11.164 [info] Native locator: Refresh finished in 1372 ms

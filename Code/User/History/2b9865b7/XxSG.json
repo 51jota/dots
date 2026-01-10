@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Nord",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "explorer.confirmDragAndDrop": false
+}

@@ -1,0 +1,79 @@
+
+{
+  "layer": "top",
+  "position": "top",
+  "height": 0,
+  "spacing": 0,
+  "margin-top": 12,
+  "margin-bottom": 5,
+  "margin-left": 200,
+  "margin-right": 200,
+    "modules-left": ["niri/workspaces", "window"],
+    "modules-center": ["clock"],
+    "modules-right": [ "tray","backlight", "pulseaudio", "network", "battery"],
+    "sway/scratchpad": {
+      "format": "󱂬 {count}"
+    },
+    "pulseaudio": {
+    	"format": "{volume}%",
+	"tooltip-format": "Volume"
+    },
+    "backlight": {
+    "format": "{percent}%",
+    "format-icons": ["", "", "", "", "", "", "", "", ""],
+    "tooltip-format": "Brilho"
+  },
+    "niri/workspaces": {
+      "format": "{index}"
+    },
+    "mpris": {
+    	"format": "{status_icon} {artist} - {title}",
+    	"format-stopped": "",
+    	"status-icons": {
+    		"paused": "⏸",
+    		"playing": "󰐊"
+    	},
+    	"interval": "0.1"
+    },
+    "clock": {
+      "format": "{:%H:%M}",
+        "interval": 1,
+        "tooltip-format": "{:%d de %B de %Y}"
+
+    },
+    "tray": {
+    	"spacing": 12
+    },
+    "gamemode": {
+        "glyph": "   ",
+        "format": "{glyph}",
+        "use-icon": false,
+        "icon-spacing": 16
+    },
+    "memory": {
+        "format": "  {percentage}%",
+        "interval": 1
+    },
+    "cpu": {
+        "format": "  {usage}%",
+        "interval": 1
+    },
+    "battery": {
+    	"format": "{capacity}% ",
+    	"format-charging": "{capacity}% ",
+    	"format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂","󰁹"],
+    	"interval": 1,
+	"tooltip-format": "Bateria"
+    },
+    "network": {
+    "format-wifi": "{signalStrength}%",
+    "format-ethernet": "{ipaddr}",
+    "format-disconnected": "OFF",
+    "tooltip-format": "Wifi"
+    },
+    "window": {
+    "format": "{title}",
+    "max-length": 50,
+    "tooltip-format": "{title}"
+    }
+}

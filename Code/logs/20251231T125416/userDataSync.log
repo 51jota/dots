@@ -1,0 +1,207 @@
+2025-12-31 12:54:26.162 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-12-31 12:54:26.162 [info] [AutoSync] Enabled.
+2025-12-31 12:54:26.162 [info] [AutoSync] Suspended until auth token is available.
+2025-12-31 12:54:47.771 [info] [AutoSync] Triggered by Interval
+2025-12-31 12:54:47.774 [info] Sync started.
+2025-12-31 12:54:50.180 [info] Settings: No changes found during synchronizing settings.
+2025-12-31 12:54:50.366 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-12-31 12:54:50.804 [info] Snippets: No changes found during synchronizing snippets.
+2025-12-31 12:54:51.955 [info] Tasks: No changes found during synchronizing tasks.
+2025-12-31 12:54:52.263 [info] Mcp: No changes found during synchronizing mcp.
+2025-12-31 12:54:52.315 [info] GlobalState: No changes found during synchronizing ui state.
+2025-12-31 12:54:52.920 [info] Extensions: No changes found during synchronizing extensions.
+2025-12-31 12:54:52.946 [info] Prompts: No changes found during synchronizing prompts.
+2025-12-31 12:54:52.963 [info] Profiles: No changes found during synchronizing profiles.
+2025-12-31 12:54:52.987 [info] Sync done. Took 5216ms
+2025-12-31 12:59:53.020 [info] [AutoSync] Triggered by Interval
+2025-12-31 12:59:53.025 [info] Sync started.
+2025-12-31 12:59:54.105 [info] Settings: No changes found during synchronizing settings.
+2025-12-31 12:59:54.138 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-12-31 12:59:54.167 [info] Snippets: No changes found during synchronizing snippets.
+2025-12-31 12:59:54.185 [info] Tasks: No changes found during synchronizing tasks.
+2025-12-31 12:59:54.210 [info] Mcp: No changes found during synchronizing mcp.
+2025-12-31 12:59:54.240 [info] GlobalState: No changes found during synchronizing ui state.
+2025-12-31 12:59:54.564 [info] Extensions: No changes found during synchronizing extensions.
+2025-12-31 12:59:54.608 [info] Prompts: No changes found during synchronizing prompts.
+2025-12-31 12:59:54.615 [info] Profiles: No changes found during synchronizing profiles.
+2025-12-31 12:59:54.623 [info] Sync done. Took 1612ms
+2025-12-31 13:04:54.657 [info] [AutoSync] Triggered by Interval
+2025-12-31 13:04:54.660 [info] Sync started.
+2025-12-31 13:05:05.020 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:05:05.021 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:05:05.022 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:06:59.245 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:06:59.263 [info] Sync started.
+2025-12-31 13:06:59.266 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:06:59.267 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:06:59.269 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:07:05.304 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:07:05.305 [info] Sync started.
+2025-12-31 13:07:05.322 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:07:05.324 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:07:05.325 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:07:48.981 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:07:49.002 [info] Sync started.
+2025-12-31 13:07:49.020 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:07:49.029 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:07:49.030 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:08:01.131 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:08:01.135 [info] Sync started.
+2025-12-31 13:08:01.150 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:08:01.152 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:08:01.154 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:09:37.936 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:09:37.938 [info] Sync started.
+2025-12-31 13:09:37.949 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:09:37.950 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:09:37.952 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:10:56.208 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:10:56.211 [info] Sync started.
+2025-12-31 13:10:56.237 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:10:56.239 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:10:56.240 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:15:48.355 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:15:48.358 [info] Sync started.
+2025-12-31 13:15:48.369 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:15:48.372 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:15:48.374 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:16:38.699 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:16:38.700 [info] Sync started.
+2025-12-31 13:16:38.716 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:16:38.718 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:16:38.719 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:21:38.747 [info] [AutoSync] Triggered by Interval
+2025-12-31 13:21:38.769 [info] Sync started.
+2025-12-31 13:21:38.775 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:21:38.777 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:21:38.779 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:26:38.785 [info] [AutoSync] Triggered by Interval
+2025-12-31 13:26:38.787 [info] Sync started.
+2025-12-31 13:26:38.802 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:26:38.806 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:26:38.809 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:28:54.156 [info] [AutoSync] Triggered by Activity
+2025-12-31 13:28:54.158 [info] Sync started.
+2025-12-31 13:28:54.167 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-12-31 13:28:54.169 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-12-31 13:28:54.170 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at yu.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23465)
+    at async yu.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20539)
+    at async Yu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134946)
+    at async fd.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async fd.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)

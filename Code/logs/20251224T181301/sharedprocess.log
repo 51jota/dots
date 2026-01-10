@@ -1,0 +1,11 @@
+2025-12-24 18:13:12.346 [info] github.copilot 1.388.0 Running post uninstall script
+2025-12-24 18:13:12.631 [info] Marked extension as removed enkia.tokyo-night-1.1.2
+2025-12-24 18:13:12.633 [info] Marked extension as removed github.copilot-1.388.0
+2025-12-24 18:13:12.637 [info] Marked extension as removed github.copilot-chat-0.35.2
+2025-12-24 18:13:12.638 [info] Marked extension as removed ms-vscode.live-server-0.4.16
+2025-12-24 18:13:17.420 [error] Failed to run post uninstall script github.copilot 1.388.0
+2025-12-24 18:13:17.432 [error] timed out
+2025-12-24 18:13:19.168 [info] Deleted marked for removal extension from disk enkia.tokyo-night /home/kaoruko/.vscode/extensions/enkia.tokyo-night-1.1.2
+2025-12-24 18:13:19.174 [info] Deleted marked for removal extension from disk ms-vscode.live-server /home/kaoruko/.vscode/extensions/ms-vscode.live-server-0.4.16
+2025-12-24 18:13:19.289 [info] Deleted marked for removal extension from disk github.copilot /home/kaoruko/.vscode/extensions/github.copilot-1.388.0
+2025-12-24 18:13:19.404 [info] Deleted marked for removal extension from disk github.copilot-chat /home/kaoruko/.vscode/extensions/github.copilot-chat-0.35.2

@@ -1,0 +1,13 @@
+2025-12-24 18:54:46.420 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 36ms.
+2025-12-24 18:54:46.645 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 39ms.
+2025-12-24 18:54:46.731 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 36ms.
+2025-12-24 18:54:48.391 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay, chat.statusWidget.sku
+2025-12-24 18:54:49.414 [info] Started local extension host with pid 8316.
+2025-12-24 18:55:04.836 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2025-12-24 18:55:11.353 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-24 18:55:16.471 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-24 18:55:32.580 [info] Extension host (LocalProcess pid: 8316) is unresponsive.
+2025-12-24 18:55:32.594 [info] Extension host (LocalProcess pid: 8316) is responsive.
+2025-12-24 18:55:38.095 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-24 18:55:50.246 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 175ms.
+2025-12-24 18:55:58.314 [info] [perf] Render performance baseline is 210ms

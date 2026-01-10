@@ -1,0 +1,25 @@
+2025-12-31 12:47:03.310 [info] Client: Pylance client (2025.10.4) started with python extension (2025.20.1)
+2025-12-31 12:47:08.399 [info] (2170): Server root directory: file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-31 12:47:08.405 [info] (2170): Pylance language server 2025.10.4 (pyright version 1.1.407, commit 906e40aa) starting
+2025-12-31 12:47:08.446 [info] (2170): Starting service instance "Coding" for workspace "/home/kaoruko/Coding"
+2025-12-31 12:47:13.726 [info] (2170): Loading background bundle file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into file:///home/kaoruko/Coding...
+2025-12-31 12:47:14.681 [info] (2170): FG(Coding): Setting environmentName for service "Coding": "3.13.11 (global)"
+2025-12-31 12:47:14.684 [info] (2170): FG(Coding): Setting pythonPath for service "Coding": "/usr/bin/python"
+2025-12-31 12:47:14.687 [info] (2170): FG(Coding): No include entries specified; assuming /home/kaoruko/Coding
+2025-12-31 12:47:14.693 [info] (2170): FG(Coding): Auto-excluding **/node_modules
+2025-12-31 12:47:14.697 [info] (2170): FG(Coding): Auto-excluding **/__pycache__
+2025-12-31 12:47:14.698 [info] (2170): FG(Coding): Auto-excluding **/.*
+2025-12-31 12:47:14.953 [info] (2170): FG(Coding): Assuming Python version 3.13.11.final.0
+2025-12-31 12:47:15.654 [info] (2170): FG(Coding): Found 4 source files
+2025-12-31 12:47:15.786 [info] (2170): Settings have not changed. Skipping update.
+2025-12-31 12:47:18.410 [info] (2170): Starting Mcp server id:3075 ...
+2025-12-31 12:47:20.713 [info] (2170): PQ(Coding): Priority queue background worker(2) root directory: file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-31 12:47:20.740 [info] (2170): PQ(Coding): Priority queue background worker(2) started
+2025-12-31 12:47:22.399 [info] (2170): IDX(Coding): Indexer background runner(3) root directory: file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (index)
+2025-12-31 12:47:22.403 [info] (2170): IDX(Coding): Indexing(3) started
+2025-12-31 12:47:22.922 [info] (2170): BG(Coding): Loaded external background bundle file:///home/kaoruko/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-31 12:47:26.594 [info] (2170): BG(Coding): Long operation: SemanticTokens range 0:0 - 3:0 at file:///home/kaoruko/Coding/Python/Aula4/aula4desafio1.py (2556ms)
+2025-12-31 12:47:26.876 [info] (2170): IDX(Coding): Long operation: scan packages file:///home/kaoruko/Coding (3906ms)
+2025-12-31 12:47:26.877 [info] (2170): IDX(Coding): scanned(3) 35 files over 1 exec env
+2025-12-31 12:47:29.004 [info] (2170): IDX(Coding): indexed(3) 35 files over 1 exec env
+2025-12-31 12:47:29.056 [info] (2170): IDX(Coding): Indexing finished(3).

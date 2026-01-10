@@ -1,0 +1,11 @@
+2025-12-24 18:55:32.718 [info] Native locator: Refresh started
+2025-12-24 18:55:32.718 [info] Native locator: Refresh finished in 1603 ms
+2025-12-24 18:55:38.421 [info] Native locator: Refresh started
+2025-12-24 18:55:39.308 [info] > pyenv which python
+2025-12-24 18:55:39.308 [info] cwd: .
+2025-12-24 18:55:39.657 [info] Caminho do interpretador Python: /usr/bin/python
+2025-12-24 18:55:40.061 [info] Native locator: Refresh finished in 1645 ms
+2025-12-24 18:55:53.838 [info] Iniciando servidor de idiomas Pylance.
+2025-12-24 18:56:52.915 [info] Caminho do interpretador Python: /bin/python
+2025-12-24 18:58:23.015 [info] Send text to terminal: /bin/python /home/kaoruko/Coding/Python/Aula4/aula4desafio1.py
+2025-12-24 18:58:23.548 [info] CreateEnv Trigger - Skipping for /home/kaoruko/Coding/Python/Aula4/aula4desafio1.py

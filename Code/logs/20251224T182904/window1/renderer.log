@@ -1,0 +1,58 @@
+2025-12-24 18:29:08.134 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 26ms.
+2025-12-24 18:29:08.311 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 35ms.
+2025-12-24 18:29:08.398 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 29ms.
+2025-12-24 18:29:11.895 [info] Started local extension host with pid 6424.
+2025-12-24 18:29:22.817 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-24 18:29:23.820 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-24 18:29:25.775 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-24 18:29:29.194 [info] [perf] Render performance baseline is 147ms
+2025-12-24 18:32:58.462 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 30ms.
+2025-12-24 18:32:58.662 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 72ms.
+2025-12-24 18:32:58.763 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 42ms.
+2025-12-24 18:33:00.267 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-24 18:33:01.750 [info] Started local extension host with pid 7221.
+2025-12-24 18:33:14.073 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-24 18:33:16.094 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-24 18:33:17.504 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-24 18:33:20.200 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 274ms.
+2025-12-24 18:33:24.306 [info] [perf] Render performance baseline is 186ms
+2025-12-24 18:35:03.522 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 24ms.
+2025-12-24 18:35:03.661 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 42ms.
+2025-12-24 18:35:03.760 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 38ms.
+2025-12-24 18:35:05.455 [info] Started local extension host with pid 7510.
+2025-12-24 18:35:17.403 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2025-12-24 18:35:23.690 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-24 18:35:24.505 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-24 18:35:25.824 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-24 18:35:29.600 [info] [perf] Render performance baseline is 192ms
+2025-12-24 18:36:51.188 [error] [Extension Host] (node:7510) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-24 18:36:51.232 [error] [Extension Host] (node:7510) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-24 18:36:52.927 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-24 18:44:59.258 [error] Ocorreu um erro desconhecido. Verifique o log para obter detalhes.
+2025-12-24 18:47:39.862 [error] Ocorreu um erro desconhecido. Verifique o log para obter detalhes.
+2025-12-24 18:49:41.875 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-12-24 18:49:44.561 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-12-24 18:49:57.810 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-12-24 18:50:00.616 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-12-24 18:50:01.955 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-12-24 18:50:05.474 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-12-24 18:50:28.526 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay, chat.statusWidget.sku

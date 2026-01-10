@@ -1,0 +1,27 @@
+2025-12-23 21:11:54.750 [info] Uninstalling extension from the profile: github.copilot-chat@0.35.2 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:11:54.754 [info] Uninstalling extension from the profile: github.copilot@1.388.0 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:11:54.927 [info] Extensions is already requested to uninstall github.copilot
+2025-12-23 21:11:54.928 [info] Extensions is already requested to uninstall github.copilot
+2025-12-23 21:11:54.932 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-12-23 21:11:54.935 [info] Extensions is already requested to uninstall github.copilot
+2025-12-23 21:11:54.936 [info] Extensions is already requested to uninstall github.copilot
+2025-12-23 21:11:54.938 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-12-23 21:11:54.940 [info] Extensions is already requested to uninstall github.copilot
+2025-12-23 21:11:54.942 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-12-23 21:11:54.943 [info] Extensions is already requested to uninstall github.copilot
+2025-12-23 21:11:55.204 [info] Marked extension as removed github.copilot-chat-0.35.2
+2025-12-23 21:11:55.313 [info] Marked extension as removed github.copilot-1.388.0
+2025-12-23 21:11:55.937 [info] Successfully uninstalled extension from the profile github.copilot-chat@0.35.2 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:11:55.941 [info] Successfully uninstalled extension from the profile github.copilot@1.388.0 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:12:01.500 [info] Uninstalling extension from the profile: ms-vscode.live-server@0.4.16 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:12:02.597 [info] Marked extension as removed ms-vscode.live-server-0.4.16
+2025-12-23 21:12:05.225 [info] Successfully uninstalled extension from the profile ms-vscode.live-server@0.4.16 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:12:13.738 [info] Uninstalling extension from the profile: enkia.tokyo-night@1.1.2 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:12:14.075 [info] Marked extension as removed enkia.tokyo-night-1.1.2
+2025-12-23 21:12:14.294 [info] Successfully uninstalled extension from the profile enkia.tokyo-night@1.1.2 vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json
+2025-12-23 21:12:24.962 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2025-12-23 21:12:25.225 [info] Installing extension: arcticicestudio.nord-visual-studio-code {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json","path":"/home/kaoruko/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"}}
+2025-12-23 21:12:31.556 [info] Extension signature verification result for arcticicestudio.nord-visual-studio-code: Success. Internal Code: 0. Executed: true. Duration: 5432ms.
+2025-12-23 21:12:31.766 [info] Extracted extension to file:///home/kaoruko/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0: arcticicestudio.nord-visual-studio-code
+2025-12-23 21:12:31.821 [info] Renamed to /home/kaoruko/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0
+2025-12-23 21:12:31.918 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code vscode-userdata:/home/kaoruko/.vscode/extensions/extensions.json

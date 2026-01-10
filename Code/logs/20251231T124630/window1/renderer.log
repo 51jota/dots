@@ -1,0 +1,12 @@
+2025-12-31 12:46:35.359 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 33ms.
+2025-12-31 12:46:35.454 [warning] Creation of workbench contribution 'workbench.contrib.notebook' took 52ms.
+2025-12-31 12:46:35.581 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 39ms.
+2025-12-31 12:46:35.681 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 53ms.
+2025-12-31 12:46:37.931 [info] Started local extension host with pid 1803.
+2025-12-31 12:46:50.635 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2025-12-31 12:46:50.750 [error] Error: onWillSaveTextDocument-event anulado após 1.750 ms
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:572:11858
+2025-12-31 12:46:57.981 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-31 12:47:01.663 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-31 12:47:02.925 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-31 12:47:06.068 [info] [perf] Render performance baseline is 198ms
