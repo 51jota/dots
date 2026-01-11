@@ -7,8 +7,8 @@ Minhas configurações pessoais (dotfiles) para o **Niri** compositor no Arch Li
 ![Desktop](screenshots/desktop.png)
 *Desktop*
 
-![Tofi](screenshots/tofi.png)
-*Tofi*
+![Fastfetch](screenshots/fastfetch.png)
+*Fastfetch*
 
 ![SDDM](screenshots/sddm.png)
 *SDDM/Login*
