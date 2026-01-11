@@ -31,6 +31,8 @@ PKGS=(
     "qt6-vitualkeyboard"
     "qt6-multimedia"
     "visual-studio-code-bin"
+    "bluetui"
+    "impala"
 )
 
 # ==========================================
