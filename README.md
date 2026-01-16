@@ -27,8 +27,13 @@ O script vai:
 
 **Copie e cole:**
 
+**Arch Linux**
 ```bash
-bash <(curl -s [https://raw.githubusercontent.com/51jota/dots/main/install.sh](https://raw.githubusercontent.com/51jota/dots/main/install.sh
+curl -s https://raw.githubusercontent.com/51jota/dots/main/install.sh | bash
+```
+**Void Linux**
+```bash
+curl -s https://raw.githubusercontent.com/51jota/dots/main/installvoid.sh | bash
 ```
 Nota: Reinicie o computador após a instalação terminar.
 
