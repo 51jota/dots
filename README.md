@@ -45,10 +45,10 @@ File Manager: Superfile/Nautilus
 ⌨️ Atalhos Principais:  
 Super + Enter: Kitty  
 Super + Space: Tofi  
-Super + Esc: PowerMenu
+Super + Esc: PowerMenu  
 Super + B: Firefox  
-Super + F: Maximizar Janela
-Super + W: Fechar Janela
-Super + Shift + W: Trocar Wallpaper  
+Super + F: Maximizar Janela  
+Super + W: Fechar Janela  
+Super + Shift + W: Trocar Wallpaper   
 Super + Minus: Wifi  
 Super + Shift + Minus: Bluetooth  
